@@ -11,6 +11,8 @@ int main()
     }
 
     printf("The elements of the array are: ");
+
+    
     for (i = 0; i < size; i++)
     {
         printf("%d ", a[i]);
