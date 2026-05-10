@@ -12,6 +12,8 @@ The purpose of this repository is to provide clear and concise C code examples f
 - Well-organized code for easy navigation and understanding.
 - Useful as a reference for learning, teaching, or interview preparation.
 
+
+
 ## Technologies Used
 
 - **C** — All implementations are written in the C programming language.
